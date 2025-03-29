@@ -1,9 +1,10 @@
 # dot-files
 Config files.
 
-OS: Arch 
+OS: Arch Linux
 Desktop environment: Hyprland
 Status bar: Wayland
-Editor: nvim
+Editor: neovim + NVChad
+Terminal: kitty + starship
 
 
